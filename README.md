@@ -30,9 +30,6 @@ I'm a passionate developer and creator who loves building useful tools, experime
 - Growing **STRIDE MEDIA** - Comprehensive Media House
 - Developing **BEARD MEDIA** - A photography company in Nigeria and United Kingdom
 
-### Languages
-`JavaScript` `Python` `TypeScript` `Go` `C#`
-
 ### Tools & Frameworks
 `CISCO Packet Tracer` `Wireshark` `Ubuntu` `Wazuh` `Kali-Linux` `VM's`
 
@@ -42,14 +39,12 @@ I'm a passionate developer and creator who loves building useful tools, experime
 
 ## 🎯 Featured Projects
 
-### 🔹 **Outside It Shell**
+### 🔹 **Outside Its Shell**
 The project is about stripping a computer system off it shell and laying all its component down on a plywood, adding other computer component to it. Testing the components and making sure they work.  
 👉 Repo: [github.com/your/project](https://github.com/your/project)
 
 
 ## 🌐 Connect With Me
 - LinkedIn: **www.linkedin.com/in/olawale-olapoju-2320b6118**
-- Twitter/X: **@oolawalee**
-
 
 ✨ *Thanks for stopping by—feel free to explore and reach out!*  
