@@ -7,15 +7,28 @@ I'm a passionate developer and creator who loves building useful tools, experime
 - **National Diploma in Computer Science and Petroleum Marketing and Business Studies**
 - Experience in **Networking, IT Systems, Repairs, and Support**
 - Founder of **STRIDE MEDIA and STRIDE NETWORKS** over seeing subsidiaries like **BEARD MEDIA** and **STRIDE ENTERTAINMENT**
-- 🔭 I’m currently pursuing a path in **Your CyberSecurity**
-- 🌱 I’m learning: **CYBERSECURITY**
-- 👯 I’m looking to collaborate on: **Open-source projects, creative tools, or interesting ideas**
-- 💬 Ask me about: **CISCO Packet Tracer, Automation, APIs, GitHub workflows**
-- 📫 How to reach me: **olapojuolawale@gmail.com**
-- ⚡ Fun fact: **I love taking pictures when I am not doing tech**
+- I’m currently pursuing a path in **Your CyberSecurity**
+- Passionate about **Security in Tech, Innovation and Media**
+- I’m learning: **CYBERSECURITY**
+- I’m looking to collaborate on: **Open-source projects, creative tools, or interesting ideas**
+- Ask me about: **CISCO Packet Tracer, Automation, APIs, GitHub workflows**
+- How to reach me: **olapojuolawale@gmail.com**
+- Fun fact: **I love taking pictures when I am not doing tech**
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools
+### Technical Skills:
+- Microsoft Office Suite | IT Systems | IT Support & Repair
+- Data Analysis | Project Management | Cybersecurity Fundamentals
+
+## Soft Skills:
+- Problem Solving | Customer Relationship | Communication
+- Strategic Thinking | Leadership | Security Awareness
+
+## What I'm Working On
+- Upskilling and building expertise in Cybersecurity (networ security, threat analysis, risk management)
+- Growing **STRIDE MEDIA** - Comprehensive Media House
+- Developing **BEARD MEDIA** - A photography company in Nigeria and United Kingdom
 
 ### Languages
 `JavaScript` `Python` `TypeScript` `Go` `C#`
@@ -27,21 +40,11 @@ I'm a passionate developer and creator who loves building useful tools, experime
 `AWS` `GitHub Actions` `CI/CD`
 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
-
-
 ## 🎯 Featured Projects
 
-### 🔹 **Project Name**
-Brief description of what it does.  
+### 🔹 **Outside It Shell**
+The project is about stripping a computer system off it shell and laying all its component down on a plywood, adding other computer component to it. Testing the components and making sure they work.  
 👉 Repo: [github.com/your/project](https://github.com/your/project)
-
-### 🔹 **Another Cool Project**
-What makes it interesting.  
-👉 Repo: [github.com/your/project2](https://github.com/your/project2)
 
 
 ## 🌐 Connect With Me
